@@ -213,7 +213,22 @@ Challenge and Importing Job config.xml Files
 --------------------------------------------
 https://gist.github.com/got4/12d888d0ce9e40b79d8454dabdad7033
 
-g
+https://git.io/vKSVZ
+What if am I config xml
 
+copy config.xml
+cd /.jenkins/jobs/ there we can find config.xml and other build details
+
+ls
+
+ls atmosphere/
+make a new directory
+mkdir atmosphere2
+
+copy the .xml file to atmosphere2 directory
+
+cp ~/jenkins2/exercises/m2/config.xml atmosphere2/.
+
+go the Jenkins Dashboard --> Manage Jenkins --> Reload Configuration from Disk
 
 
